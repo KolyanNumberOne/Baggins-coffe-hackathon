@@ -1,1 +1,1 @@
-# Baggins-coffe-hackathon
+# Baggins-coffee-hackathon
